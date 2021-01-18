@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/crypto-exchanger/static/css/main.aedcbd3c.chunk.css",
-    "main.js": "/crypto-exchanger/static/js/main.fb2dba60.chunk.js",
-    "main.js.map": "/crypto-exchanger/static/js/main.fb2dba60.chunk.js.map",
+    "main.js": "/crypto-exchanger/static/js/main.53c3046d.chunk.js",
+    "main.js.map": "/crypto-exchanger/static/js/main.53c3046d.chunk.js.map",
     "runtime-main.js": "/crypto-exchanger/static/js/runtime-main.52af8a2d.js",
     "runtime-main.js.map": "/crypto-exchanger/static/js/runtime-main.52af8a2d.js.map",
     "static/js/2.afa21449.chunk.js": "/crypto-exchanger/static/js/2.afa21449.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.52af8a2d.js",
     "static/js/2.afa21449.chunk.js",
     "static/css/main.aedcbd3c.chunk.css",
-    "static/js/main.fb2dba60.chunk.js"
+    "static/js/main.53c3046d.chunk.js"
   ]
 }
