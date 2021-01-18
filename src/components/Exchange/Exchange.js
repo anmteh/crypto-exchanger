@@ -45,6 +45,10 @@ export const Exchange = ({ currencyList }) => {
     setSecondaryInput({
       ...newSecondaryCurrency
     })
+    setWallet(w => ({
+      ...w,
+      value: newSecondaryCurrency.name
+    }))
   }
 
   const getExchangeAmount = useCallback(
